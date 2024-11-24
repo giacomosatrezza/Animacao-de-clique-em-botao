@@ -1,0 +1,14 @@
+#comprar {
+    background: #5BBF5F;
+    border: none;
+    padding: 19px;
+    width: 100%;
+    color: white;
+    font-weight: bold;
+    transition: background 2s ease;
+    cursor: pointer;
+}
+
+#comprar.clicked {
+    background: #37b53c;;
+}
